@@ -1,0 +1,4 @@
+class GB{
+      void msg(){
+      }
+}

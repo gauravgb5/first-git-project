@@ -1,0 +1,3 @@
+class ahhd{
+    m(){}
+}
