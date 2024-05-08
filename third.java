@@ -1,0 +1,4 @@
+Class third{
+    aa(){
+    }
+}
